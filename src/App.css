@@ -13,3 +13,8 @@ h1{
 input{
   text-align: left;
 }
+h3{
+  font-style: italic;
+  color: red;
+  font-size: x-small;
+}
