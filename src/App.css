@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+*{
+  box-sizing: border-box;
+}
+h1{
+  text-align: center;
+}
+input{
+  text-align: left;
+}
