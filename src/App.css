@@ -1,4 +1,4 @@
-.App {
+.Form {
   display: flex;
   justify-content: center;
   align-content: center;
@@ -17,4 +17,10 @@ h3{
   font-style: italic;
   color: red;
   font-size: x-small;
+}
+header{
+  text-align: center;
+  background-color: navy;
+  color: white;
+  padding: 15px
 }
